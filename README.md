@@ -5,7 +5,7 @@
 <h1 align="center">Welcome 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=24&pause=1500&color=3B82F6&center=true&vCenter=true&width=700&lines=Team+Lead+Electronics+%40+Odonata+e.V.;Mechatronics+Student+at+TU+Dresden;Embedded+Systems+%7C+Solar+Aviation;Managing+IT+%26+Development+Infrastructure" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=24&pause=1500&color=3B82F6&center=true&vCenter=true&width=700&lines=Team+Lead+Electronics+%40+Odonata+e.V.;Mechatronics+Student+at+TU+Dresden;Embedded+Systems+%7C+Solar+Aviation;ROS2+%7C+Managing+IT+%26+Dev+Infrastructure" />
 </p>
 
 ---
@@ -23,7 +23,10 @@
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,raspberrypi,git,github,vscode,linux,ros,bash" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,raspberrypi,git,github,vscode,linux,bash" /><br>
+  <a href="https://docs.ros.org/en/humble/index.html">
+    <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
+  </a>
 </p>
 
 ---
@@ -32,7 +35,7 @@
 
 - Electronics & Embedded Systems
 - Solar Flight Systems & Power Distribution
-- Microcontrollers & Sensor Integration
+- Microcontrollers, ROS 2 & Sensor Integration
 - Hardware-Software Codesign
 - IT Infrastructure & Collaborative Workflows
 
